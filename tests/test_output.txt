@@ -1,0 +1,48 @@
+============================================================
+AI UX/UI Design Assistant - Sample Test Output
+============================================================
+
+SAMPLE IMAGE: C:\Users\Hamza\OneDrive\Desktop\AI-Based UXUI Design Assistant\data\screenshots\sample_ui.png
+
+ANALYSIS RESULTS:
+------------------------------------------------------------
+Overall Score: 0.85/1.0
+Layout Type: grid-based
+Elements Detected: 3
+Image Dimensions: (800, 600)
+
+LAYOUT METRICS:
+  Grid Score: 1.0
+  Alignment Score: 0.63
+  Symmetry Score: 0.81
+
+COLOR METRICS:
+  Unique Colors: 481
+  Contrast Score: 1.0
+  Color Diversity: 1.00
+  Dominant Colors: [(np.uint8(192), np.uint8(192), np.uint8(192)), (np.uint8(0), np.uint8(0), np.uint8(64)), (np.uint8(0), np.uint8(64), np.uint8(64))]
+
+SPACING METRICS:
+  Spacing Consistency: 0.65
+  Whitespace Ratio: 0.83
+  Element Density: 0.01
+
+DESIGN SUGGESTIONS:
+------------------------------------------------------------
+1. [MEDIUM] Consider reducing the number of colors for a more cohesive design
+
+WIREFRAME RECOMMENDATIONS:
+------------------------------------------------------------
+Recommended Structure:
+  - Header: Include
+  - Navigation: Include
+  - Main_Content: Include
+  - Sidebar: Optional
+  - Footer: Include
+
+Recommendations:
+  - Your design already follows a grid structure - maintain this in wireframes
+
+============================================================
+Test completed successfully!
+============================================================
