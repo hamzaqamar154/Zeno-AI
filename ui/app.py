@@ -53,7 +53,7 @@ if uploaded_file is not None:
             
             with col1:
                 st.subheader("Uploaded Image")
-                st.image(image, width=None)
+                st.image(image)
                 
                 temp_path = SCREENSHOTS_DIR / uploaded_file.name
                 with open(temp_path, 'wb') as f:
